@@ -1,0 +1,48 @@
+<html>
+<head>
+<style>
+body{
+background-color:lightblue;
+}
+.p1{
+font-family:"Times New Roman";
+color:red;
+}
+.p2{
+font-family:"Lucida Console";
+}
+h1.pos_left{
+color:green;
+position: relative;
+left:30px;
+}
+h1.pos_right{
+position:relative;
+right:50px;
+}
+</style>
+</head>
+<body>
+<h1><center>CSS PROPERTIES</h1></center>
+<p class="p1"> Formulas And Functions
+A formula is an expression that can include cell addresses,numbers,arithmetic operators and 
+parenthesis.You can perform simple as well as complex calculations using functions.Formulas must 
+begin with symbol followed by cell references and operators
+</p>
+<p class="p2"> Formulas And Functions
+A formula is an expression that can include cell addresses,numbers,arithmetic operators and 
+parenthesis.You can perform simple as well as complex calculations using functions.Formulas must 
+begin with symbol followed by cell references and operators
+</p>
+<h1 class="pos_left"> Formulas And Functions
+A formula is an expression that can include cell addresses,numbers,arithmetic operators and 
+parenthesis.You can perform simple as well as complex calculations using functions.Formulas must 
+begin with symbol followed by cell references and operators
+</h1>
+<h2 class="pos_right"> Formulas And Functions
+A formula is an expression that can include cell addresses,numbers,arithmetic operators and 
+parenthesis.You can perform simple as well as complex calculations using functions.Formulas must 
+begin with symbol followed by cell references and operators
+</h2>
+</body>
+</html>
